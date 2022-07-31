@@ -1,0 +1,13 @@
+name = "xgraph"
+type = "webpack"
+account_id = ''
+route = ''
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2022-02-13"
+kv_namespaces = [
+	 { binding = "ARTICLES", id = "13xxxxab8cc904xxxxx7a1a57xxx11" }
+]
+target_type = "webpack"

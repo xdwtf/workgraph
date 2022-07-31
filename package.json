@@ -1,0 +1,19 @@
+{
+  "name": "workgraph",
+  "version": "1.0.0",
+  "description": "something like telegraph, but on cf workers",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snvmk/workgraph.git"
+  },
+  "author": "SNVMK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snvmk/workgraph/issues"
+  },
+  "homepage": "https://github.com/snvmk/workgraph#readme",
+  "dependencies": {
+    "mmd": "github:snvmk/mmd.js"
+  }
+}
